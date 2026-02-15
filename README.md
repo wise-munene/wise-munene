@@ -50,8 +50,6 @@ When I’m not coding, I’m usually watching films — I appreciate strong stor
 
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:wisemunene99@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/wise.munene)
-
 ---
 
 > Building scalable solutions with clean architecture and long-term impact.
