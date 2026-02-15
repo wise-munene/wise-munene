@@ -34,15 +34,6 @@ When I’m not coding, I’m usually watching films — I appreciate strong stor
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
----
-
-# 📊 GitHub Stats
-
-![Wise's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise.munene&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise.munene&layout=compact)
-
----
 
 # 🤝 Connect With Me
 
