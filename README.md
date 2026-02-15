@@ -1,21 +1,59 @@
-# 👋 Hi, I'm Wise Munene
+# Wise Munene
 
-Full-Stack Software Engineer passionate about building scalable, secure, and efficient software solutions.
+## 🚀 Full-Stack Software Engineer
 
-I design and develop applications from the database layer to the user interface, focusing on clean architecture, maintainable code, and real-world problem solving.
+I am a Full-Stack Software Engineer passionate about building scalable, secure, and efficient software systems.
 
-📍 Nairobi, Kenya  
-🎯 Open to Internships & Junior Software Engineering Roles  
+I enjoy designing applications from backend architecture to frontend experiences, with a strong focus on clean code, system design, and solving real-world problems.
+
+My long-term goal is to grow into an AI and Machine Learning Engineer, bridging the gap between business needs and intelligent, data-driven solutions.
 
 ---
 
-## 🧠 Developer Profile
+## ⚡ Fun Fact
 
-```python
-class WiseMunene:
-    role = "Full-Stack Software Engineer"
-    focus = ["Scalable Web Applications", "System Design", "Financial Systems"]
-    backend = ["Python", "Flask", "PostgreSQL"]
-    frontend = ["JavaScript", "HTML", "CSS"]
-    interests = ["Performance Optimization", "API Architecture", "AI Integration"]
-    goal = "Build impactful and intelligent software systems"
+When I’m not coding, I’m usually watching films — I enjoy great storytelling and powerful dialogue — or playing football, which challenges both my mind and body.
+
+---
+
+# 💻 My Skill Set
+
+## Frontend
+HTML5  
+CSS3  
+JavaScript  
+Responsive Web Design  
+
+## Backend
+Python  
+Flask  
+REST APIs  
+JWT Authentication  
+PostgreSQL  
+Database Modeling (ERD)  
+
+## Dev Tools & Environment
+Git  
+GitHub  
+Linux (Ubuntu)  
+Postman  
+
+---
+
+# 📊 GitHub Stats
+
+![Wise's GitHub stats](https://github-readme-stats.vercel.app/api?username=wise-munene&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wise-munene&layout=compact)
+
+---
+
+# 🤝 Connect With Me
+
+LinkedIn  
+GitHub  
+Email  
+
+---
+
+> Building scalable solutions with clean architecture and long-term impact.
