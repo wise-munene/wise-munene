@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Wise Munene
 
-<!--
-**wise-munene/wise-munene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer passionate about building scalable, secure, and efficient software solutions.
 
-Here are some ideas to get you started:
+I design and develop applications from the database layer to the user interface, focusing on clean architecture, maintainable code, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Nairobi, Kenya  
+🎯 Open to Internships & Junior Software Engineering Roles  
+
+---
+
+## 🧠 Developer Profile
+
+```python
+class WiseMunene:
+    role = "Full-Stack Software Engineer"
+    focus = ["Scalable Web Applications", "System Design", "Financial Systems"]
+    backend = ["Python", "Flask", "PostgreSQL"]
+    frontend = ["JavaScript", "HTML", "CSS"]
+    interests = ["Performance Optimization", "API Architecture", "AI Integration"]
+    goal = "Build impactful and intelligent software systems"
